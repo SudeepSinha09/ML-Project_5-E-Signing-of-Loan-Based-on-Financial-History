@@ -1,7 +1,7 @@
 # ML-Project_5-E-Signing-of-Loan-Based-on-Financial-History
 ### Data Details 
   
-   Kaggle - https://www.kaggle.com/datasets/aniruddhachoudhury/esigning-of-loan-based-on-financial-history?select=financial_data.csv
+   Kaggle - https://www.kaggle.com/datasets/aniruddhachoudhury/esigning-of-loan-based-on-financial-history?select=financial_data.csv  
    Colab Notebook - https://colab.research.google.com/drive/1wRf9RP3_3VA_DCBQkx5HzDwchzrEJ55P?usp=sharing
    
 #### Please use the Ipynb file in the repository for a detailed explanation of this project. This is because the project has been completed and the steps have been written in the notebook referenced in the repository.
